@@ -1,0 +1,32 @@
+
+body{
+
+background:#081b29;
+
+}
+p{
+color: white;
+}
+.btn-primary{
+height: 50px;
+width: 70px;
+font-weight:bold ;
+background: #00abf0;;
+    color:white;
+}
+.btn-primary:hover {
+color: blue;
+}
+
+h1{
+text-align: center;
+color: white;
+}
+
+a{
+color: white;
+}
+
+a:hover{
+color: blue;
+}
